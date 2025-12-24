@@ -1,2 +1,5 @@
 # DS-LAB
 Solved Leetcode and Lab Programes
+NAME:DARSHAN
+USN:1BM24CS088
+SECTION:G
